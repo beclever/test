@@ -13,7 +13,7 @@ import com.showshine.model.UserEntity;
  * 创建时间：2015年9月17日 上午10:35:05   
  * 修改人：
  * 修改时间：2015年9月17日 上午10:35:05   
- * 修改备注：   
+ * 修改备注：    
  * @version   V1.0
  */
 public interface IUserDao {
