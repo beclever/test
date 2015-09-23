@@ -30,5 +30,9 @@
 		PassWord:<input type="password" name="password" /><br/> 
 		<input type="submit" id="loginBtn" value="Login" />
 	</div>
+	<script type="text/javascript">
+	  	var basePath = "${ctx_path}";
+	  	alert(basePath);
+  	</script>
 </body>
 </html>
